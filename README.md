@@ -20,3 +20,7 @@ The game features smooth camera control, level progression, and atmospheric ligh
 - Mouse: Look around / rotate the camera.
 - R: Reset current level.
 - ESC: Unlock cursor and make mouse visible (pause-like behavior).
+
+## YouTube Video Demonstration
+
+- https://youtu.be/wbUcl36VjIs
